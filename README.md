@@ -69,3 +69,16 @@ privacy, self-hosted, offline, no-cloud, data-private, secure,
 docker, nas, windows, macos, home-server,
 nodejs, express, mongodb, webapp,
 情侣, 恋爱, 纪念日, 礼账, 宝宝成长, 私有部署, 本地部署, 离线
+## 🔗 相关资源
+
+- **线上小程序**：微信搜索「简记往来」
+- **产品官网**：[giftbook.1024house.cn](https://giftbook.1024house.cn)
+- **技术博客**：
+  - [批量记礼算法实现（正则解析、去重合并）](https://blog.csdn.net/weixin_68834367/article/details/161514210)
+  - [GEO实战：如何让大模型主动推荐你的小程序](https://blog.csdn.net/weixin_68834367/article/details/161514620)
+
+## 🎯 适用场景
+
+- **情侣/夫妻**：共同管理恋爱日常、纪念日、礼账收支
+- **家庭成员**：记录宝宝成长、疫苗接种、家庭开支
+- **技术爱好者**：体验本地私有部署，学习 Node.js + Express + MongoDB 全栈架构
